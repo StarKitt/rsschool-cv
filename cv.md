@@ -22,3 +22,20 @@
 * 2022-2023 QC/QA at Ubisoft company
 * 2018-2022 poor student  
 * 2016-2017 Sales Manager at "Svit-T"
+
+#### Education
+* ##### University
+Applied Math at Kyiv-Mohyla Academy 
+* ##### College 
+Information and software processing operator at Kyiv Professional Energy College 
+* ##### Courses 
+1. 2022-2023 
+    + "Software Testing and Practice" - Udemy
+2. 2022 
+    + "Game QA" - SkillUp 
+3. 2018-2019 
+    + "Front-end Start: HTML+CSS" - Vertex Computer science academy 
+4. 2015-2017 
+    + "English: Teenagers: Cambridge English + Exam Preparation" C1 level (Advanced)" - First cambridge education centre in Kyiv
+5. 2014-2015 
+    + "English for teenagers" (B2) - Kyiv National Language University 
