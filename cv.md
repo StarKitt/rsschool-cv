@@ -16,3 +16,9 @@
 1. English (upper-intermediate) 
 2. Ukrainian (native)
 3. Russian (native-speaker)  
+
+#### Experience 
+
+* 2022-2023 QC/QA at Ubisoft company
+* 2018-2022 poor student  
+* 2016-2017 Sales Manager at "Svit-T"
