@@ -8,3 +8,11 @@
 2. (+38)095-56-52-580
 * ###### E-mail 
    GumenukOlexandr@gmail.com
+  
+##### Location
+ Kyiv
+
+##### Languages 
+1. English (upper-intermediate) 
+2. Ukrainian (native)
+3. Russian (native-speaker)  
