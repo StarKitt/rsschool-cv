@@ -10,7 +10,7 @@
    GumenukOlexandr@gmail.com
   
 ##### Location
- Kyiv
+ _Kyiv_
 
 ##### Languages 
 1. English (upper-intermediate) 
